@@ -1,4 +1,4 @@
-# Assignment: Writing a Docker Compose File for a Three-Tier AI Chatbot
+# Lab: Writing a Docker Compose File for a Three-Tier AI Chatbot
 
 ## Overview
 
